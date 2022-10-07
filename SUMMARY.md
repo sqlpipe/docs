@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Test page](README.md)
+* [SQLpipe docs](README.md)
+
+## V1
+
+* [Installation guide](v1/installation-guide.md)
