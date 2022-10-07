@@ -1,10 +1,13 @@
 # Table of contents
 
-* [SQLpipe docs](README.md)
+* [SQLpipe introduction](README.md)
 
-## V1
+## v1
 
-* [Installation guide](v1/installation-guide.md)
-* [CLI usage guide](v1/cli-usage-guide.md)
-* [Server usage guide](v1/server-usage-guide.md)
-* [SQLpipe introduction](v1/sqlpipe-introduction.md)
+* [v1 introduction](v1/v1-introduction.md)
+* [Installation](v1/installation.md)
+* [CLI usage](v1/cli-usage.md)
+* [Server usage](v1/server-usage.md)
+* [CLI Reference](v1/cli-reference.md)
+* [API Reference](v1/api-reference.md)
+* [Supported systems](v1/supported-systems.md)

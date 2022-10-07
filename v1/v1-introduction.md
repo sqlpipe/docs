@@ -1,4 +1,4 @@
-# SQLpipe introduction
+# v1 introduction
 
 This page introduces SQLpipe, explains how it works and describes how to use it.
 
