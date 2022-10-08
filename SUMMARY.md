@@ -2,9 +2,12 @@
 
 * [SQLpipe introduction](README.md)
 
+## v2
+
+* [Installation](v2/installation.md)
+
 ## v1
 
-* [v1 introduction](v1/v1-introduction.md)
 * [Installation](v1/installation.md)
 * [CLI usage](v1/cli-usage.md)
 * [Server usage](v1/server-usage.md)
