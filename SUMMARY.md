@@ -5,6 +5,7 @@
 ## v2
 
 * [Installation](v2/installation.md)
+* [API](v2/api.md)
 
 ## v1
 
