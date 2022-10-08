@@ -22,7 +22,7 @@ For example, if you want to generate an API key that must be provided by clients
 
 `./sqlpipe --secure`
 
-To learn more about available command line flags, check out the CLI reference.
+The next section will include more information about the available command line flags.
 
 ### Adding ODBC drivers
 
@@ -39,4 +39,4 @@ If you get frustrated trying to add a driver, [contact us](https://sqlpipe.com/c
 
 ### Next steps
 
-Move on to the next page to learn how to interact with SQLpipe's REST API.
+Move on to the next page to learn how to interact with SQLpipe's CLI.
