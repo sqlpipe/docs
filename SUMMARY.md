@@ -11,6 +11,7 @@
 ## v1
 
 * [Installation](v1/installation.md)
+* [Downloads](v1/downloads.md)
 * [CLI usage](v1/cli-usage.md)
 * [Server usage](v1/server-usage.md)
 * [CLI Reference](v1/cli-reference.md)
