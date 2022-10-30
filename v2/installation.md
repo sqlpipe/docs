@@ -8,7 +8,9 @@ SQLpipe has a number of command line flags available when starting a server, but
 
 The following command is all you need to run a SQLpipe API server on port 9000:
 
-`docker run --name sqlpipe sqlpipe/sqlpipe`
+`docker run --name sqlpipe sqlpipe/sqlpipe:<image tag>`
+
+Note that SQLpipe _requires_ you to enter an image tag. As of writing, the latest is 2.0.4.
 
 ### More control
 
