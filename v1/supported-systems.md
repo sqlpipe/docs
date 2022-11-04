@@ -1,6 +1,6 @@
 # Supported systems
 
-### If you would like a system connector added, [contact us](https://sqlpipe.com/contact) or check out our [services page](https://sqlpipe.com/services).
+### If you would like a system connector added, [contact us](https://sqlpipe.com/contact).
 
 ***
 

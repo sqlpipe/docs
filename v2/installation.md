@@ -37,8 +37,6 @@ SQLpipe's Docker image currently comes pre-installed with unixODBC and the follo
 
 Almost every modern data system has an ODBC driver available. If you'd like to add your own drivers to connect to additional sources, check out the [Dockerfile](https://github.com/sqlpipe/sqlpipe/blob/main/Dockerfile) that builds the image to see how that is done.
 
-If you get frustrated trying to add a driver, [contact us](https://sqlpipe.com/contact) for help. We can add a driver to the image for a one-time fee, and offer a money back guarantee if you don't end up using it.
-
 ### Next steps
 
 Move on to the next page to learn how to interact with SQLpipe's CLI.

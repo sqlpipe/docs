@@ -2,7 +2,7 @@
 
 This guide will teach you how to set up and use a SQLpipe server.
 
-[Contact us](https://sqlpipe.com/contact) for help getting started with SQLpipe, or check out our [services page](https://sqlpipe.com/services).
+[Contact us](https://sqlpipe.com/contact) for help getting started with SQLpipe.
 
 ## Prerequisites
 
@@ -255,7 +255,5 @@ And the SQLpipe server logs will show that it received your request:
 ## Wrapping up
 
 Hopefully you are finding that SQLpipe is easy to use, and somewhat self explanatory.
-
-However, if you would like help setting up, running, or desiging data pipelines for use with SQLpipe, please check out our [services page](https://sqlpipe.com/services)!
 
 Also, please [contact us](https://sqlpipe.com/contact) if you think you found an error in this guide.

@@ -2,7 +2,7 @@
 
 This page defines SQLpipe's API routes and the data payloads they expect to receive.
 
-[Contact us](https://sqlpipe.com/contact) for help getting started with SQLpipe, or check out our [services page](https://sqlpipe.com/services).
+[Contact us](https://sqlpipe.com/contact) for help getting started with SQLpipe.
 
 ## All requests must be authenticated with [HTTP Basic Auth](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication).
 

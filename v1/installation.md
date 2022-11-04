@@ -2,7 +2,7 @@
 
 This page will show you how to install and configure SQLpipe.
 
-[Contact us](https://sqlpipe.com/contact) for help getting started with SQLpipe, or check out our [services page](https://sqlpipe.com/services).
+[Contact us](https://sqlpipe.com/contact) for help getting started with SQLpipe.
 
 ## Download SQLpipe
 

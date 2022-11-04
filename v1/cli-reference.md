@@ -2,7 +2,7 @@
 
 This page lists SQLpipe's commands, their options/flags, and gives usage examples.
 
-[Contact us](https://sqlpipe.com/contact) for help getting started with SQLpipe, or check out our [services page](https://sqlpipe.com/services).
+[Contact us](https://sqlpipe.com/contact) for help getting started with SQLpipe.
 
 ## Transfer command
 

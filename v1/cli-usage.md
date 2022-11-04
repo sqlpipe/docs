@@ -2,7 +2,7 @@
 
 This guide will teach you how to use SQLpipe's CLI to transfer data and run queries.
 
-[Contact us](https://sqlpipe.com/contact) for help getting started with SQLpipe, or check out our [services page](https://sqlpipe.com/services).
+[Contact us](https://sqlpipe.com/contact) for help getting started with SQLpipe.
 
 ## Prerequisites
 
